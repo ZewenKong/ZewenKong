@@ -1,5 +1,6 @@
 <h2> 𝐇𝐢 𝐭𝐡𝐞𝐫𝐞 👋 𝐈'𝐦 𝐙𝐞𝐰𝐞𝐧 𝐊𝐨𝐧𝐠. </h2>
-[![Outlook Badge](https://img.shields.io/badge/
+[![Website Badge](https://img.shields.io/badge/Website-https://www.mywebsite.com-2E8B57?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.mywebsite.com)](https://www.mywebsite.com)
+
 
 
 
