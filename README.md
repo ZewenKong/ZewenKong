@@ -12,8 +12,6 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
-<h4> 𝐘𝐞𝐚𝐫 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 </h4>
-
 <!-- <p align="left" style="display:inline-block;">
   <img src="https://komarev.com/ghpvc/?username=ZewenKong" alt="ZewenKong" />
 </p> -->
