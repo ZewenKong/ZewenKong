@@ -11,6 +11,7 @@
   />
 </p>
 
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 <!--
 **ZewenKong/ZewenKong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
