@@ -4,6 +4,10 @@
 [![Website](https://img.shields.io/badge/-zewenkong.com-0055AA?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://zewenkong.com)](https://zewenkong.com)
 [![Outlook](https://img.shields.io/badge/-zewenkong@outlook.com-003366?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:zewenkong@outlook.com)](mailto:zewenkong@outlook.com)
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <p align="left" style="display:inline-block;">
   <img src="https://komarev.com/ghpvc/?username=ZewenKong" alt="ZewenKong" />
 </p>
