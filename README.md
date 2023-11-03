@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZewenKong&theme=github&layout=compact&hide_border=true" /></a> |
 | -------------------------- |
+
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZewenKong&theme=github&layout=compact&hide_border=true) |
+|:--:|
