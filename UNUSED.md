@@ -14,6 +14,6 @@
 
 <h4> 𝐘𝐞𝐚𝐫 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 </h4>
 
-<p align="left" style="display:inline-block;">
+<!-- <p align="left" style="display:inline-block;">
   <img src="https://komarev.com/ghpvc/?username=ZewenKong" alt="ZewenKong" />
-</p>
+</p> -->
