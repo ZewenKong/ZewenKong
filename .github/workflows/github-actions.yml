@@ -1,9 +1,9 @@
 name: github actions
 
 on: # control the workflows
-  workflow_dispatch: # run manaully
   schedule: # run schedule
     - cron: '0 */6 * * *'
+  workflow_dispatch: # run manaully
 
 jobs: # workflows
   build: # job name - build
