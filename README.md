@@ -5,10 +5,8 @@
 [![Outlook](https://img.shields.io/badge/-zewenkong@outlook.com-003366?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:zewenkong@outlook.com)](mailto:zewenkong@outlook.com)
 
 <h4> 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 </h4>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-
-
+<h4> 𝐘𝐞𝐚𝐫 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 </h4>
 
 <p align="left" style="display:inline-block;">
   <img src="https://komarev.com/ghpvc/?username=ZewenKong" alt="ZewenKong" />
