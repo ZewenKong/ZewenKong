@@ -39,7 +39,6 @@ const readme = `\
 <h4> ⏳ 𝐘𝐞𝐚𝐫 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 </h4>
 ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
-
 <!-- <p align="left" style="display:inline-block;">
   <img src="https://komarev.com/ghpvc/?username=ZewenKong" alt="ZewenKong" />
 </p> -->
@@ -47,3 +46,5 @@ ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
 
 ⏰ Updated on ${new Date().toUTCString()}
+
+console.log(readme)
