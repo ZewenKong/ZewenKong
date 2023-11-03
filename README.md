@@ -3,7 +3,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Zewen%20Kong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zewen-kong-07b42b263/)](https://www.linkedin.com/in/zewen-kong-07b42b263/)
 
-[![Outlook Badge](https://img.shields.io/badge/Email-zewen@outlook.com-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:zewenkong@outlook.com)](mailto:zewenkong@outlook.com)
+[![Email Badge](https://img.shields.io/badge/Email-zewen@outlook.com-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:zewenkong@outlook.com)](mailto:zewenkong@outlook.com)
 
 
 
