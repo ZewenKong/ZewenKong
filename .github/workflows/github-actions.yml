@@ -1,18 +1,17 @@
-name: Github Actions
+name: github actions
 
-on:
-  workflow_dispatch:
-  schedule:
+on: # control the workflows
+  workflow_dispatch: # run manaully
+  schedule: # run schedule
     - cron: '0 */6 * * *'
 
-jobs:
-  build:
+jobs: # workflows
+  build: # job name - build
+    runs-on: ubuntu-latest # type of runner
 
-    runs-on: ubuntu-latest
-
-    steps:
+    steps: # steps
     - uses: actions/checkout@v2
-    - name: Use Node.js
+    - name: Use Node.js # steps name
       uses: actions/setup-node@v1
       with:
         node-version: '14.x'
@@ -21,6 +20,6 @@ jobs:
     - name: Commit change & Push
       run: |
           git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
           git commit -am "bot: update README.md automatically"
           git push
