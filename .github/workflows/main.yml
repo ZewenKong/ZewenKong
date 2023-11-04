@@ -1,10 +1,12 @@
-name: generate_readme_with_stats
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 */12 * * *' # every 12 hours
   push:
     branches:
+      - master
       - main
+permissions:
+  contents: write
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -12,10 +14,10 @@ jobs:
     - uses: actions/checkout@v3
       with:
         fetch-depth: 0
-    - name: Generate stats on README.md
+    - name: Generate README.md
       uses: teoxoy/profile-readme-stats@v2
       with:
-        token: ${{ secrets.ACTIONS }}
+        token: ${{ secrets.USER_TOKEN }}
     - name: Update README.md
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
