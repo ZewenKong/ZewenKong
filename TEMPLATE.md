@@ -4,9 +4,7 @@
 [![Website](https://img.shields.io/badge/-zewenkong.com-0055AA?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://zewenkong.com)](https://zewenkong.com)
 [![Outlook](https://img.shields.io/badge/-zewen.kong@outlook.com-003366?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:zewen.kong@outlook.com)](mailto:zewen.kong@outlook.com)
 
-<!-- I have joined Github **{{ ACCOUNT_AGE }}** years ago. Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues. -->
-
-𝐇𝐞𝐫𝐞 𝐚𝐫𝐞 𝐦𝐲 𝐦𝐨𝐬𝐭 𝐮𝐬𝐞𝐝 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬:
+𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐜𝐜𝐫𝐨𝐬𝐬 𝐦𝐲 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞𝐬
 
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
