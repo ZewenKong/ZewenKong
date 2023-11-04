@@ -17,11 +17,11 @@ jobs:
     runs-on: ubuntu-latest # type of runner
 
     steps: # steps
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: Use Node.js # steps name
       uses: actions/setup-node@v2
       with:
-        node-version: '16.x'
+        node-version: '14'
     - name: Update README.md
       run: node index.js > README.md
     - name: Commit change & Push
