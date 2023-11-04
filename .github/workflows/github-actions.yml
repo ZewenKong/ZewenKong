@@ -10,11 +10,12 @@ jobs: # workflows
     runs-on: ubuntu-latest # type of runner
 
     steps: # steps
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@main
+    - uses: actions/checkout@v4
     - name: Use Node.js # steps name
-      uses: actions/setup-node@v1
+      uses: actions/setup-node@v2
       with:
-        node-version: '14.x'
+        node-version: '16.x'
     - name: Update README.md
       run: node index.js > README.md
     - name: Commit change & Push
