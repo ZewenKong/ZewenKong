@@ -1,4 +1,4 @@
-<h2> Hi there 👋 I am Zewen Kong </h2>
+## Hi there 👋 I am Zewen Kong
 
 [![Linkedin](https://img.shields.io/badge/-Zewen%20Kong-0077DD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zewen-kong-07b42b263/)](https://www.linkedin.com/in/zewen-kong-07b42b263/)
 [![Website](https://img.shields.io/badge/-zewenkong.com-0055AA?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://zewenkong.com)](https://zewenkong.com)
@@ -18,7 +18,7 @@ class Earthling:
 me = Earthling()
 ```
 
-<h2> 🔧 Technologies & Tools </h2>
+## 🔧 Technologies & Tools
 
 **Programming Languages:**
 
