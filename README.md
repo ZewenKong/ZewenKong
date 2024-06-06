@@ -1,10 +1,26 @@
-<h2> Hi there 👋 I am Zewen Kong </h2>
+## Hi there 👋 I am Zewen Kong
 
 [![Linkedin](https://img.shields.io/badge/-Zewen%20Kong-0077DD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zewen-kong-07b42b263/)](https://www.linkedin.com/in/zewen-kong-07b42b263/)
 [![Website](https://img.shields.io/badge/-zewenkong.com-0055AA?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://zewenkong.com)](https://zewenkong.com)
 [![Outlook](https://img.shields.io/badge/-zewen.kong@outlook.com-003366?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:zewen.kong@outlook.com)](mailto:zewen.kong@outlook.com)
 
-<h2> Programming languages accross my repositories </h2>
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class Earthling:
+
+    def __init__(self):
+        self.name = "Zewen Kong"
+        self.role = "Student"
+        self.language_spoken = ["zh_CN", "en_UK"]
+
+me = Earthling()
+```
+
+## 🔧 Technologies & Tools
+
+**Programming Languages:**
 
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B138.9%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B114.2%25)
@@ -14,3 +30,5 @@
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B14.5%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B14.5%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B110.7%25)
+
+**
