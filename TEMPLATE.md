@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Zewen Kong｜孔泽文. I am from Shanghai, China and currently doing nothing.
+My name is Zewen Kong [孔泽文]. I am from Shanghai, China and currently doing nothing.
 
 ## 🔍 Where to Find Me
 
