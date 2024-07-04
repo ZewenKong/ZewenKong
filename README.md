@@ -10,7 +10,6 @@ My name is Zewen Kong [孔泽文]. I am from Shanghai, China and currently doing
 
 ## 🔧 Technologies & Tools
 
-![Jupyter Notebook](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B147.2%25)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%233572A5&message=Python%EF%B8%B128.1%25)
-![C](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%23555555&message=C%EF%B8%B123.5%25)
-![AGS Script](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%23B9D9FF&message=AGS%20Script%EF%B8%B11%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B146.9%25)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%233572A5&message=Python%EF%B8%B129.6%25)
+![C](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%23555555&message=C%EF%B8%B123.3%25)
