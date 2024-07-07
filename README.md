@@ -10,6 +10,6 @@ My name is Zewen Kong [孔泽文]. I am from Shanghai, China and currently doing
 
 ## 🔧 Technologies & Tools
 
-![Jupyter Notebook](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B149.3%25)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%233572A5&message=Python%EF%B8%B126%25)
-![C](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%23555555&message=C%EF%B8%B124.5%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B148.3%25)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%233572A5&message=Python%EF%B8%B127.6%25)
+![C](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=666666&labelColor=%23555555&message=C%EF%B8%B124%25)
