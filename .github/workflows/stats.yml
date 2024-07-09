@@ -16,7 +16,7 @@ jobs:
         with:
           fetch-depth: 0
       - name: Stats
-        uses: ZewenKong/Profile-Readme-Stats@master
+        uses: ZewenKong/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
       - name: Update README.md
