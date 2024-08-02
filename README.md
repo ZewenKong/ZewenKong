@@ -10,7 +10,7 @@ My name is Zewen Kong「孔泽文」.
 	
 🔧 Programming Languages
 
-![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%23555555&message=C%EF%B8%B155.9%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%233572A5&message=Python%EF%B8%B129.1%25)
-![AGS Script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%23B9D9FF&message=AGS%20Script%EF%B8%B111.9%25)
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B12.9%25)
+![C](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%23555555&message=C%EF%B8%B151.2%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%233572A5&message=Python%EF%B8%B131.4%25)
+![AGS Script](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%23B9D9FF&message=AGS%20Script%EF%B8%B114.5%25)
+![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B12.7%25)
