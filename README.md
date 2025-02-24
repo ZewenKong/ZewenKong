@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/static/v1?style=flat-square&label=Website&labelColor=4085f9&color=666666&message=zewenkong.github.io)](https://zewenkong.github.io/)
 [![LinkedIn](https://img.shields.io/static/v1?style=flat-square&label=LinkedIn&labelColor=0072b1&color=666666&message=Zewen%20Kong)](https://www.linkedin.com/in/zewen-kong-07b42b263/)
     
-<p><samp>Languages Across My Repositories</samp></p>
+<p><samp>Languages Across My (Public) Repositories</samp></p>
 
 ![MATLAB](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%23e16737&message=MATLAB%EF%B8%B188.2%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=666666&labelColor=%233572A5&message=Python%EF%B8%B18.4%25)
